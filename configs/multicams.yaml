@@ -1,0 +1,15 @@
+oakd_w:
+  camera_name: 'oakd_w'
+  mxid: '194430107131962E00'
+  enable_rgb: True
+  enable_stereo: True
+  enable_depth: True
+  enable_imu: True
+
+oakd_pro_w:
+  camera_name: 'oakd_pro_w'
+  mxid: '18443010D1F83CF500'
+  enable_rgb: True
+  enable_stereo: True
+  enable_depth: True
+  enable_imu: True
